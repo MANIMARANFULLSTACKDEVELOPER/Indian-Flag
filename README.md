@@ -1,4 +1,4 @@
 # Indian-Flag
-<img src="Indian--Flag">
-<video src="Indian-Flag">
+<img src="Indian--Flag.png">
+<video src="Indian-Flag.mp4">
 </video>
